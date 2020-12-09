@@ -1,0 +1,19 @@
+C:\Users\3mr3\Desktop\Yeni klasör\Karekök\Karekök\bin\Debug\Karekök.exe.config
+C:\Users\3mr3\Desktop\Yeni klasör\Karekök\Karekök\bin\Debug\Karekök.exe
+C:\Users\3mr3\Desktop\Yeni klasör\Karekök\Karekök\bin\Debug\Karekök.pdb
+C:\Users\3mr3\Desktop\Yeni klasör\Karekök\Karekök\obj\Debug\Karekök.csprojAssemblyReference.cache
+C:\Users\3mr3\Desktop\Yeni klasör\Karekök\Karekök\obj\Debug\Karekök.Form1.resources
+C:\Users\3mr3\Desktop\Yeni klasör\Karekök\Karekök\obj\Debug\Karekök.Properties.Resources.resources
+C:\Users\3mr3\Desktop\Yeni klasör\Karekök\Karekök\obj\Debug\Karekök.csproj.GenerateResource.cache
+C:\Users\3mr3\Desktop\Yeni klasör\Karekök\Karekök\obj\Debug\Karekök.exe
+C:\Users\3mr3\Desktop\Yeni klasör\Karekök\Karekök\obj\Debug\Karekök.pdb
+D:\C#\Karekök\Karekök\bin\Debug\Karekök.exe.config
+D:\C#\Karekök\Karekök\bin\Debug\Karekök.exe
+D:\C#\Karekök\Karekök\bin\Debug\Karekök.pdb
+D:\C#\Karekök\Karekök\obj\Debug\Karekök.csprojAssemblyReference.cache
+D:\C#\Karekök\Karekök\obj\Debug\Karekök.Properties.Resources.resources
+D:\C#\Karekök\Karekök\obj\Debug\Karekök.csproj.GenerateResource.cache
+D:\C#\Karekök\Karekök\obj\Debug\Karekök.exe
+D:\C#\Karekök\Karekök\obj\Debug\Karekök.pdb
+D:\C#\Karekök\Karekök\obj\Debug\Karekök.Ekran.resources
+D:\C#\Karekök\Karekök\obj\Debug\Karekök.csproj.CoreCompileInputs.cache
