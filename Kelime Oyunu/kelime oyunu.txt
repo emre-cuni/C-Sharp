@@ -1,0 +1,73 @@
+Cevaplar  	Sorular
+---------------------------------------------------------------------
+//4 harfliler
+Alev		Yanan maddelerin veya gazların türlü biçimlerdeki ışıklı uzantısı, yalım, yalaz, alaz, şule
+Ceza		Uygun olmayan tepki ve davranışları önlemek ya da böylesi uygunsuz eylemler için, yapana karşı uygulanan üzüntü, sıkıntı, acı verici işlem.
+Dadı		Varsıl evlerinde çocuk bakımıyla görevli kadın.
+Evet		Sorulara karşılık olarak kullanılan, öyledir anlamında doğrulama ya da onama bildiren sözcük.
+Koca		Bir kadının evli bulunduğu erkek, eş.
+Para		Devletçe bastırılan ve ülke içinde ödeme aracı olarak kullanılan, üzerinde saymaca değeri yazılı, kâğıt ya da metal nesne.
+Rüku		Namazda, elleri dizlere dayayarak öne doğru eğilme.
+Şair		Geniş bir düş gücü bulunan, duyarlı, duygulu kimse. Ozan.
+Veba		Hasta farelerden insanlara geçen bir mikrobun yol açtığı bulaşıcı ve öldürücü bir hastalık.
+Zeka		İnsanın düşünme, akıl yürütme, nesnel gerçekleri algılama, kavrama, yargılama ve sonuç çıkarma yeteneklerinin tümü.
+
+//5 harfliler
+Adale		Kas.
+Bahçe		Çiçek ve ağaç yetiştirilen yer. Bostan.
+Cunta		Bir ülkede yönetime el koyan kimselerden oluşan kurul.
+Emlak		Ev, arsa, bahçe vb. taşınamayan mal ve mülklerin ortak adı, taşınmazlar, gayrimenkul.
+Hamsi		Akdeniz, Karadeniz ve Batı Avrupa kıyılarında avlanan, 10-12 cm boyunda, ince uzun bir balık.
+Kabuk		Bir şeyin üstünü kaplayan ve onu dış etkilere karşı koruyan, kendiliğinden oluşmuş sertçe bölüm, kışır.
+Maraz		Dayanılması güç durum. Huysuzluğu ve titizliği ile can sıkan.
+Pasta		İçine katılmış türlü maddelerle özel bir tat verilmiş, fırında veya başka bir yolla pişirilerek hazırlanmış bir tür hamur tatlısı.
+Sakal		Yetişkin erkeklerde yanak ve alt çenede çıkan kılların tümü.
+Talaş		Testere ile biçilen veya rende, matkap, törpü vb. araçlarla işlenen bir şeyden dökülen kırıntılar.
+
+//6 harfliler
+Abluka		Kuşatma.
+Balkon		Bir yapının genellikle dışarıya doğru çıkmış, çevresi duvar veya parmaklıkla çevrili bölümü, ayazlık.
+Çapari		Beden, köstek ve iğne bölümlerinden meydana gelen, her bir iğneye hindi, horoz, kaz, martı, tavuk, ördek vb. kuşların kanat, kuyruk tüyleri takılan çok iğneli bir tür olta takımı.
+Dejavu		Bir yeri daha önce görmüş olma veya bir olayı daha önce yaşamış olma duygusu.
+Fosfat		Yapay gübre ve bazı ilaçların yapımında kullanılan fosforik asidin tuzu veya esteri.
+Garson		Lokanta, pastane, kahvehane vb. yerlerde müşterilere hizmet eden kimse.
+Kaplan		Kedigillerden, enine siyah çizgili, koyu sarı postu olan, Asya'da yaşayan çevik ve yırtıcı hayvan.
+Mangal		Isınmaya, bir şey pişirmeye yarayan, sac, bakır veya pirinçten, türlü biçimlerde üstü açık ayaklı ocak, korluk.
+Sağlam		Dayanıklı, kolay bozulmaz, yıkılmaz.
+Yağmur		Atmosferdeki su buharının yoğunlaşmasıyla oluşan ve yeryüzüne düşen yağışın sıvı durumda olanı, yağar, yağış, baran, bereket, rahmet.
+
+//7 harfliler
+Baharat		Yiyecek ve içeceklere hoş koku ve tat vermek için kullanılan tarçın, karanfil, zencefil, karabiber vb. maddeler, bahar.
+Cehalet 	Bilgisizlik.
+Filinta 	Namlusu kısa, kurşun atan bir çeşit küçük tüfek. Güzel, yakışıklı.
+Holigan		Özellikle futbolda fanatizmi besleyen, aşırı davranışlarda bulunan ve çevreye zarar vermeye eğilimli taraftar, serseri, hayta.
+İtfaiye 	Yangın söndürme kuruluşu.
+Kahkaha		Yüksek sesle gülme.
+Lazanya		Bir çeşit İtalyan makarnası.
+Negatif 	Olumsuz, menfi.
+Piramit		Tepeleri ortak bir noktada birleşen, tabanları da herhangi bir çokgenin birer kenarı olan birtakım üçgenlerden oluşmuş cisim, ehram.
+Tanjant		Başka bir çizgiye, eğriye ve yüzeye dokunan fakat onu kesmeyen çizgi, eğri veya yüzey.
+
+//8 harfliler
+Çıngırak	İçindeki tanelerin hareketiyle ses çıkaran metal nesne.
+Demagoji	Laf cambazlığı.
+Farenjit	Yutak iltihabı.
+Hokkabaz	El çabukluğu ile birtakım şaşırtıcı olaylar yapmayı meslek edinen kimse.
+İbraname	Aklama belgesi.
+Makinist	Lokomotif, vapur, fabrika vb.nin makinesini işleten kimse.
+Olasılık	Bir şeyin olabilmesi durumu, olabilirlik, ihtimal.
+Parşömen	Yazı yazmak, resim yapmak için özel olarak hazırlanan deri, tirşe.
+Şahmeran	Başı insan, gövdesi yılan biçiminde olduğuna inanılan efsanevi yaratık.
+Tanzimat	İdari işlerin düzeltilmesi için alınan önlemlerin ve uygulamaların tamamı.
+
+//9 harfliler
+Camgöbeği	Yeşile çalan mavi renk.
+Danişment	Tanzimattan önce, kadıların yanında yetişmek üzere görevlendirilen kimse.
+Enstürman	Çalgı.
+Gladyatör	Eski Roma'da arenada birbirleriyle veya yırtıcı hayvanlarla dövüşen kimse.
+Hematolog	Kan bilimci.
+Itriyatçı	Güzel kokular, makyaj malzemesi satan kimse veya yer.
+Lafıgüzaf	Boş söz.
+Peygamber	İnsanlara Allah'ın buyruklarını bildiren, onları Allah yoluna, dine çağıran kimse, yalvaç, yalavaç, elçi.
+Rasathane	Gözlemevi.
+Şarküteri	Peynir, zeytin, salam, sucuk vb. yiyecek maddelerinin satıldığı dükkân veya büyük alışveriş merkezinin bir bölümü.

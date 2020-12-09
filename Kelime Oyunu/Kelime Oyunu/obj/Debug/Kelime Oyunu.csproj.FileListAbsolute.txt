@@ -1,0 +1,10 @@
+D:\C#\Oyun\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.exe.config
+D:\C#\Oyun\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.exe
+D:\C#\Oyun\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.pdb
+D:\C#\Oyun\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csprojAssemblyReference.cache
+D:\C#\Oyun\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.Form1.resources
+D:\C#\Oyun\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.Properties.Resources.resources
+D:\C#\Oyun\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csproj.GenerateResource.cache
+D:\C#\Oyun\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csproj.CoreCompileInputs.cache
+D:\C#\Oyun\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.exe
+D:\C#\Oyun\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.pdb
