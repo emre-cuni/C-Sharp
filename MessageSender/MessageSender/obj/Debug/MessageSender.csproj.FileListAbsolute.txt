@@ -1,0 +1,11 @@
+C:\Users\Cuni\Desktop\Github\MessageSender\MessageSender\bin\Debug\MessageSender.exe.config
+C:\Users\Cuni\Desktop\Github\MessageSender\MessageSender\bin\Debug\MessageSender.exe
+C:\Users\Cuni\Desktop\Github\MessageSender\MessageSender\bin\Debug\MessageSender.pdb
+C:\Users\Cuni\Desktop\Github\MessageSender\MessageSender\obj\Debug\MessageSender.csproj.AssemblyReference.cache
+C:\Users\Cuni\Desktop\Github\MessageSender\MessageSender\obj\Debug\MessageSender.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cuni\Desktop\Github\MessageSender\MessageSender\obj\Debug\MessageSender.Form1.resources
+C:\Users\Cuni\Desktop\Github\MessageSender\MessageSender\obj\Debug\MessageSender.Properties.Resources.resources
+C:\Users\Cuni\Desktop\Github\MessageSender\MessageSender\obj\Debug\MessageSender.csproj.GenerateResource.cache
+C:\Users\Cuni\Desktop\Github\MessageSender\MessageSender\obj\Debug\MessageSender.csproj.CoreCompileInputs.cache
+C:\Users\Cuni\Desktop\Github\MessageSender\MessageSender\obj\Debug\MessageSender.exe
+C:\Users\Cuni\Desktop\Github\MessageSender\MessageSender\obj\Debug\MessageSender.pdb
