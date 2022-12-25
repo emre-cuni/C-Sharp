@@ -1,0 +1,30 @@
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\bin\Debug\IP Receiver.exe.config
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\bin\Debug\IP Receiver.exe
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\bin\Debug\IP Receiver.pdb
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.csproj.AssemblyReference.cache
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\obj\Debug\IP_Receiver.Form1.resources
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\obj\Debug\IP_Receiver.Properties.Resources.resources
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.csproj.GenerateResource.cache
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.exe
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.pdb
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\bin\Debug\MetroFramework.Design.dll
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\bin\Debug\MetroFramework.dll
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Cuni\Desktop\IP Receiver\IP Receiver\bin\Debug\MetroSet UI.dll
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\bin\Debug\IP Receiver.exe.config
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\bin\Debug\IP Receiver.exe
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\bin\Debug\IP Receiver.pdb
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\bin\Debug\MetroFramework.Design.dll
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\bin\Debug\MetroFramework.dll
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\bin\Debug\MetroFramework.Fonts.dll
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\bin\Debug\MetroSet UI.dll
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.csproj.AssemblyReference.cache
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.csproj.SuggestedBindingRedirects.cache
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\obj\Debug\IP_Receiver.Form1.resources
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\obj\Debug\IP_Receiver.Properties.Resources.resources
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.csproj.GenerateResource.cache
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.csproj.CoreCompileInputs.cache
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.csproj.CopyComplete
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.exe
+C:\Disk (D)\Desktop\IP Receiver\IP Receiver\obj\Debug\IP Receiver.pdb
