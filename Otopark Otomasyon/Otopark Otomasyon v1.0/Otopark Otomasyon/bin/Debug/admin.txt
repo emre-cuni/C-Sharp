@@ -1,0 +1,2 @@
+admin:cuni*password:1234
+admin:emre*password:4321
