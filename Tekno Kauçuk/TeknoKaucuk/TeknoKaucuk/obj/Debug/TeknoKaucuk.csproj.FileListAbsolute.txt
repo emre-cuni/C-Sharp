@@ -1,0 +1,16 @@
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\bin\Debug\TeknoKaucuk.exe.config
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\bin\Debug\TeknoKaucuk.exe
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\bin\Debug\TeknoKaucuk.pdb
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.csproj.AssemblyReference.cache
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.Form1.resources
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.Form2.resources
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.Form3.resources
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.Form4.resources
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.Form5.resources
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.FormMain.resources
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.Properties.Resources.resources
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.csproj.GenerateResource.cache
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.csproj.CoreCompileInputs.cache
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.exe
+C:\Users\Cuni\Desktop\Github\Tekno Kauçuk\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.pdb
