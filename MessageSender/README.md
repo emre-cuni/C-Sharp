@@ -1,1 +1,0 @@
-* TCP üzerinden istenilen adrese mesaj gönderir
